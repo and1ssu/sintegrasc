@@ -1,0 +1,2 @@
+# sintegrasc
+modelo treinado 
